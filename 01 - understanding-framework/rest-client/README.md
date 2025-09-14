@@ -5,7 +5,7 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
 
 ## Architecture
-![Architecture](https://github.com/sebastian-reyes/quarkus-course/raw/master/rest-client/src/main/resources/img/rest-client-arch.jpg "Architecture")
+![Architecture](https://github.com/sebastian-reyes/quarkus-course/raw/master/01 - understanding-framework/rest-client/src/main/resources/img/rest-client-arch.jpg "Architecture")
 
 ## Running the application in dev mode
 
